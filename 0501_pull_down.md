@@ -1,8 +1,8 @@
 #宽握下拉
 
-<center>
+
 ![](./_image/pull_down_01.jpg)
-<font color=grey>图1</font></center>
+图1
 
 - **要点1**：握法如下图2所示。
 
